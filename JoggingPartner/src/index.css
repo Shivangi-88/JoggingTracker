@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: #0f172a; 
+  color: #f8fafc; 
+}
+
+
+canvas {
+  background-color: #8f8b8b;
+  border: 10px solid #dcf2a2;
+  border-radius: 0.95rem;
+  box-shadow: 0 4px 12px rgba(236, 194, 157, 0.4);
+}
